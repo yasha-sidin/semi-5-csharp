@@ -1,0 +1,15 @@
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_2\obj\Debug\net7.0\ex_2.csproj.AssemblyReference.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_2\obj\Debug\net7.0\ex_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_2\obj\Debug\net7.0\ex_2.AssemblyInfoInputs.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_2\obj\Debug\net7.0\ex_2.AssemblyInfo.cs
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_2\obj\Debug\net7.0\ex_2.csproj.CoreCompileInputs.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_2\bin\Debug\net7.0\ex_2.exe
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_2\bin\Debug\net7.0\ex_2.deps.json
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_2\bin\Debug\net7.0\ex_2.runtimeconfig.json
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_2\bin\Debug\net7.0\ex_2.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_2\bin\Debug\net7.0\ex_2.pdb
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_2\obj\Debug\net7.0\ex_2.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_2\obj\Debug\net7.0\refint\ex_2.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_2\obj\Debug\net7.0\ex_2.pdb
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_2\obj\Debug\net7.0\ex_2.genruntimeconfig.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_2\obj\Debug\net7.0\ref\ex_2.dll

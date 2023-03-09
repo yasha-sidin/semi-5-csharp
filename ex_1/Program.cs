@@ -2,6 +2,8 @@
 // и положительных элементов массива.
 // Например, в массиве [3,9,-8,1,0,-7,2,-1,8,-3,-1,6] сумма положительных чисел равна 29, сумма отрицательных равна -20.
 
+
+// Получить сумму положительных элементов массива
 int GetSumPositiveElements(int [] array)
 {
     int sum = 0;
@@ -16,6 +18,9 @@ int GetSumPositiveElements(int [] array)
     return sum;
 }
 
+// -----------------------------------------------------------------------------------
+
+// Получить сумму отрицательных элементов массива
 int GetSumNegativeElements(int [] array)
 {
     int sum = 0;
@@ -30,6 +35,9 @@ int GetSumNegativeElements(int [] array)
     return sum;
 }
 
+// -----------------------------------------------------------------------------------
+
+// Заполнить массив случайными числами
 void FillIntArray(int[] array, int startRange, int endRange)
 {
     for(int i = 0; i < array.Length; i++)
@@ -38,6 +46,9 @@ void FillIntArray(int[] array, int startRange, int endRange)
     }
 }
 
+// -----------------------------------------------------------------------------------
+
+// Напечатать массив
 void PrintIntArray(int[] array)
 {
     Console.Write("[");
@@ -51,6 +62,8 @@ void PrintIntArray(int[] array)
         Console.Write($"{array[i]}, ");
     }
 }
+
+// -----------------------------------------------------------------------------------
 
 int [] arrayInt = new int[12];
 
