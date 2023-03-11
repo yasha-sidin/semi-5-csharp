@@ -1,0 +1,15 @@
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_5_dop\bin\Debug\net7.0\ex_5_dop.exe
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_5_dop\bin\Debug\net7.0\ex_5_dop.deps.json
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_5_dop\bin\Debug\net7.0\ex_5_dop.runtimeconfig.json
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_5_dop\bin\Debug\net7.0\ex_5_dop.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_5_dop\bin\Debug\net7.0\ex_5_dop.pdb
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_5_dop\obj\Debug\net7.0\ex_5_dop.csproj.AssemblyReference.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_5_dop\obj\Debug\net7.0\ex_5_dop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_5_dop\obj\Debug\net7.0\ex_5_dop.AssemblyInfoInputs.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_5_dop\obj\Debug\net7.0\ex_5_dop.AssemblyInfo.cs
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_5_dop\obj\Debug\net7.0\ex_5_dop.csproj.CoreCompileInputs.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_5_dop\obj\Debug\net7.0\ex_5_dop.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_5_dop\obj\Debug\net7.0\refint\ex_5_dop.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_5_dop\obj\Debug\net7.0\ex_5_dop.pdb
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_5_dop\obj\Debug\net7.0\ex_5_dop.genruntimeconfig.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинары\Семинар 5\ex_5_dop\obj\Debug\net7.0\ref\ex_5_dop.dll
